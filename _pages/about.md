@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "WenyuZhang's Homepage"
-excerpt: "WenyuZhang's Homepage"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
