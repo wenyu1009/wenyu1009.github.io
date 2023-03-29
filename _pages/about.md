@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Avout me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,8 +15,6 @@ I am excited to be a part of the vibrant research community at USTC, and I look 
 
 You can find my CV here: [WenyuZhang's Curriculum Vitae](../assets/CV.pdf).
 
-
-[Email](wenyuz@mail.ustc.edu.cn) / [Github](https://github.com/wenyu1009) 
 
 Publication
 ======
