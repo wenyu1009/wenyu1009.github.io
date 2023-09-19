@@ -9,11 +9,9 @@ redirect_from:
 ---
 Welcome to my academic homepage! My name is Wenyu Zhang, and I am a Ph.D. student at the School of Computer Science, University of Science and Technology of China (USTC). Under the guidance of Prof. Xinming Zhang, my research focuses on the applications of graph neural networks in computer vision.
 
-My current research aims to explore the potential of graph neural networks (GNNs) for solving various computer vision problems, such as Person Re-identificaiton, Point Clouds Analysis, and Vedio understanding. GNNs are a powerful tool for modeling and analyzing complex graph-structured data, and I believe that they hold great promise for advancing the state of the art in computer vision.
+My current research aims to explore the potential of graph neural networks (GNNs) for solving various computer vision problems, such as Person Re-identification, Point cloud analysis, and Video understanding. GNNs are a powerful tool for modeling and analyzing complex graph-structured data, and they hold great promise for advancing the state of the art in computer vision.
 
 I am excited to be a part of the vibrant research community at USTC, and I look forward to collaborating with other researchers in the field to make meaningful contributions to computer vision and machine learning. Thank you for visiting my academic homepage, and please feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
-
-You can find my CV here: [WenyuZhang's Curriculum Vitae](../assets/CV.pdf).
 
 
 Publication
