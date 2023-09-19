@@ -18,8 +18,13 @@ You can find my CV here: [WenyuZhang's Curriculum Vitae](../assets/CV.pdf).
 
 Publication
 ======
-[1] **Wenyu Zhang**, Qing Ding*, Jian Hu, Yi Ma, Mingzhe Lu. Pixel-wise Graph Attention Networks For Person Re-identification. *The 29th ACM International Conference on Multimedia* (ACM MM), 2021, Accept
+[1] **Wenyu Zhang**, Xin Deng, Baojun Jia, Xingtong Yu, Yifan Chen, Jin Ma, Qing Ding, Xinming Zhang. Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution. *The 31th ACM International Conference on Multimedia* (ACM MM), 2023, Accept
 
 [2] Xin Deng, **Wenyu Zhang** (Co-first author), Qing Ding, Xinming Zhang. PointVector: A Vector Representation In Point Cloud Analysis. *In Proceedings of the IEEE / CVF Computer Vision and Pattern Recognition Conference* (CVPR), 2023, Accept
 
-[3] **Wenyu Zhang**, Xin Deng, Baojun Jia, Yifan Chen et al. Robust Scene Text Image Super-Resolution Network. *International Conference on Multimedia Retrieval* (ICMR), 2023, under review
+[3] Mingyue Cheng, Qi Liu, **Wenyu Zhang**, Zhiding Liu, Hongke Zhao, Enhong Chen. A General Tail Item Representation Enhancement Framework for Sequential Recommendation. Front. Comput. Sci., 2023, https://doi.org/10.1007/s11704-023-3112-y 
+
+[4] **Wenyu Zhang**, Qing Ding*, Jian Hu, Yi Ma, Mingzhe Lu. Pixel-wise Graph Attention Networks For Person Re-identification. *The 29th ACM International Conference on Multimedia* (ACM MM), 2021, Accept
+
+
+
